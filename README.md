@@ -14,5 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=latsamii&show_icons=true&locale=en&layout=compact" alt="latsamii" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?latsamiie=anuraghazra&show_icons=true&theme=highcontrast)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=latsamii&show_icons=true&theme=highcontrast)
