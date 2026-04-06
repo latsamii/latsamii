@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Latsami Luanglaj</h1>
-<h3 align="center">A fourth-year student at the University of Central Florida</h3>
+<h3 align="center">A fourth-year student studying Information Technology at the University of Central Florida</h3>
 
 - 🌱 I’m currently learning **SQL**
 
