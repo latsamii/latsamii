@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Latsami Luanglaj</h1>
-<h3 align="center">A fourth-year student studying Information Technology at the University of Central Florida</h3>
+<h3 align="center">Infomration Technology graduate from the University of Central Florida</h3>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Computer SW/HW**
 
